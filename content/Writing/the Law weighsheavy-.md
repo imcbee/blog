@@ -10,7 +10,7 @@ tags:
   - poem
 ---
 # the Law weighsheavy-
-	the Law weighsheavy-
+  *the Law weighsheavy-*
 
 tied to an anvil,hammering the ocean bed like a gavel.
 
@@ -32,7 +32,7 @@ The sounds of major and minor fight within me
 
 \--to rule the home of my heart.
 
-            He then takes the heavy book,
+  *He then takes the heavy book,*
 
 from the hands that cried for a sliver of hope.
 

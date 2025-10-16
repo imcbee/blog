@@ -7,7 +7,7 @@ cssclasses:
 aliases: 
   - 
 tags: 
-  - example-tag
+  - wedding-vow
 ---
 # The Vow
 Life holds uncertainty and trials that we never see coming. 

@@ -10,8 +10,10 @@ tags:
   - song
 ---
 # Acadia, Maine
-**Verse 1**
+**Verse 1** 
+
 *C G*
+
 Walk with me further pass 
 Every pace the coastline disappears
 I've heard it from word of mouth
@@ -24,14 +26,18 @@ Wind lifts every strand of broken hair
 
 ---
 **Chorus**
+
 *Em D/F# G C2*
+
 Can you stand with the mountain beneath your feet?
 Does bed sounds better to sleep?
 Do you awake with earl grey tea? 
 
 ---
 **Verse 2**
+
 *C G*
+
 Coffee stains in Portland, Maine 
 Can't afford expensive outdoor clothes
 Careful words are always hard
@@ -48,7 +54,9 @@ Do you awake with earl grey tea?
 
 ---
 **Bridge Outro**
+
 *Em - - C/G D*
+
 And after a year, it feels unreal
 That you would you love me 
 Many of songs, that we'd had sung

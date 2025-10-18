@@ -1,13 +1,13 @@
 ---
-title: "Ian's Blog"
+title: "Digital Garden"
 ---
-Hey! Thanks for visiting
+Hey! Thanks for visiting my digital garden. It is still a work in progress, but it will get there.
+
 ## Contents
-1. Music
-2. [Writing](https://imcbee.github.io/blog/Writing/)
-3. Programming
-4. Food
-5. Be a parent
+1. [Writing](https://imcbee.github.io/blog/Writing/)
+2. [Programming](https://imcbee.github.io/blog/Programming)
+3. Food
+4. Be a parent
 
 
 [[About me]]

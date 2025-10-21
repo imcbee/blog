@@ -1,6 +1,6 @@
 ---
 title: Broad Sword
-date: Thu 16th Oct 2025
+date: 2025-10-16
 created: 2025-10-16
 draft: false
 cssclasses:
@@ -10,7 +10,7 @@ tags:
   - song
 ---
 # Broad Sword
-**Verus 1**
+## Verus 1
 
 *Fsus C (end Am G F)*
 
@@ -29,7 +29,7 @@ Furnace fire, dross burns away
 *Instrumental: Am C D/F# F*
 
 ---
-**Verus 2**
+## Verus 2
 
 *Fsus C (end Am G F)*
 
@@ -38,6 +38,7 @@ Here comes the rain, hear my prayer
 Shoulder to stand on, are you still near?
 
 *Fsus C*
+
 Mhmmm mhmmm
 
 Count your blessings, I'm short of change
@@ -45,7 +46,7 @@ Count your blessings, I'm short of change
 Beggar speaks softly, what's left for me?
 
 ---
-**Chorus**
+## Chorus
 
 *Am C D/F# F*
 
@@ -56,7 +57,7 @@ How gently grasp, my heart, at last you moved
 Dance with me, in the fire, I want to breath
 
 ---
-**Verus 3**
+## Verus 3
 
 *Fsus C (end Am G F)*
 

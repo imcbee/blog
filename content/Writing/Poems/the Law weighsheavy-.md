@@ -1,6 +1,6 @@
 ---
 title: the Law weighsheavy-
-date: Wed 15th Oct 2025
+date: 2025-10-15
 created: 2025-10-15
 draft: false
 cssclasses:

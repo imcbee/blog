@@ -1,6 +1,6 @@
 ---
 title: Proud of me
-date: Thu 16th Oct 2025
+date: 2025-10-16
 created: 2025-10-16
 draft: false
 cssclasses:
@@ -10,7 +10,7 @@ tags:
   - song
 ---
 # Proud of me
-**Verse 1**
+## Verse 1
 
 *A C#m E*
 
@@ -23,7 +23,7 @@ Arguments stopped being back and forth
 What does it mean to stand and feel your worth? 
 
 ---
-**Verse 2**
+## Verse 2
 
 *A C#m E*
 
@@ -36,7 +36,7 @@ Chuck a couple rolls, you don't really care do ya
 What does it mean to be proud and dream? 
 
 ---
-**Chorus**
+## Chorus
 
 *A (B) C#m A (B) E*
 
@@ -49,7 +49,7 @@ And the man who I'm trying to be
 Cause I've got only you(those) to love and care
 
 ---
-**Verse 3**
+## Verse 3
 
 *A C#m E*
 
@@ -62,7 +62,7 @@ Where are those in the great divide
 What does it mean to be humble n' alive? 
 
 ---
-**Chorus 2**
+## Chorus 2
 
 *A (B) C#m A (B) E*
 

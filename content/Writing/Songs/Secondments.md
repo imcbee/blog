@@ -1,6 +1,6 @@
 ---
 title: Secondments
-date: Sat 18th Oct 2025
+date: 2025-10-16
 created: 2025-10-18
 draft: false
 cssclasses:
@@ -12,7 +12,8 @@ tags:
 # Secondments
 *Turn: C Dm Am F*
 
-**Verse 1:**
+## Verse 1
+
 *F C* 
 
 So it comes to this? Your leading me out with a
@@ -28,7 +29,7 @@ And I just wanted to be good to you
 And I just thought that helped this through
 
 ---
-**Chorus :**
+## Chorus
 
 *F C G*
 
@@ -47,7 +48,7 @@ Trying again, secondments, breach through the water
 Crying friend,  hold my hand, grief won't bring you farther
 
 ---
-**Verse 2**
+## Verse 2
 
 *F C*
 
@@ -66,7 +67,7 @@ And I just want to useful in life
 And I just wished I gave this a real try
 
 ---
-**Verse 3**
+## Verse 3
 
 *F C*
 

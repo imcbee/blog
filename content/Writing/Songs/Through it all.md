@@ -1,6 +1,6 @@
 ---
 title: Through it all
-date: Sat 18th Oct 2025
+date: 2025-10-16
 created: 2025-10-18
 draft: false
 cssclasses:
@@ -11,7 +11,7 @@ tags:
 ---
 
 # Through it all
-**Verse 1**
+## Verse 1
 
 *G#m C#m*
 
@@ -24,7 +24,7 @@ All the tears we're losing can't escape what your fighting
 Don't - - say - - we're giving up
 
 ---
-**Chorus**
+## Chorus
 
 *F# E*
 
@@ -45,7 +45,7 @@ And we are fighting through it all
 And you are gonna see this through it all
 
 ---
-**Verse 2**
+## Verse 2
 
 *G#m C#m*
 
@@ -58,7 +58,7 @@ Tally flaws  I'm scratching, please save me from my own thinking
 Can - - you - - save me once again?
 
 ---
-**Chorus Outro**
+## Chorus Outro
 
 *F# E*
 

@@ -1,6 +1,6 @@
 ---
 title: About me
-date: Tue 14th Oct 2025
+date: 2025-10-14
 created: 2025-10-14
 draft: false
 cssclasses:

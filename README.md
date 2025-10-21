@@ -1,4 +1,4 @@
-# Ian's Blog
+# My Digital Garden
 
 This is my Obsidian blog that I am using [Quartz](https://quartz.jzhao.xyz/) that is a submodule to my private notes.
 

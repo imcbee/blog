@@ -1,6 +1,6 @@
 ---
 title: To build a cake
-date: Sat 18th Oct 2025
+date: 2025-10-16
 created: 2025-10-18
 draft: false
 cssclasses:
@@ -10,7 +10,7 @@ tags:
   - song
 ---
 # To build a cake
-**Verse 1**
+## Verse 1
 
 *Em D G*
 
@@ -25,7 +25,7 @@ We'll make it a day to replay in our minds
 Without anyone that can make a say
 
 ---
-**Verse 2**
+## Verse 2
 
 It's my birthday and you are special to me
 
@@ -36,7 +36,7 @@ With allure to make a scheme
 Come make it special, special for me
 
 ---
-**Chorus**
+## Chorus
 
 *Csus2 Em G D*
 
@@ -47,7 +47,7 @@ Into an hour glass
 And fantasy floods every waking beat
 
 ---
-**Verse 3**
+## Verse 3
 
 I'll take slice of you any day
 
@@ -58,7 +58,7 @@ All I'm thinking it's my birthday today
 til we built this cake, come make my day
 
 ---
-**Chorus**
+## Chorus
 
 And so I slip away
 
@@ -73,7 +73,8 @@ It's not even happening
 And it becomes a smashed disarray
 
 ---
-**Outro**
+## Outro
+
 Come make it special, special for me
 
 Let's build this cake, come make my day

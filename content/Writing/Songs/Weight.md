@@ -1,6 +1,6 @@
 ---
 title: Weight
-date: Sat 18th Oct 2025
+date: 2025-10-18
 created: 2025-10-18
 draft: false
 cssclasses:
@@ -10,7 +10,7 @@ tags:
   - song
 ---
 # Weight
-**Verse 1**
+## Verse 1
 
 *Csus2 G*
 
@@ -23,7 +23,7 @@ Death speaks where no light is shown
 Mute are the cries in this land
 
 ---
-**Pre-Chorus**
+## Pre-Chorus
 
 *Em D/F# G CM7*
 
@@ -32,7 +32,7 @@ Come and be in "welcomed" and "free" 
 An empty crowd that's only forced to be
 
 ---
-**Chorus**
+## Chorus
 
 *Em C D*
 
@@ -45,7 +45,7 @@ Foundations fray and cliques raid in masked charades 
 I came apart. I came apart. 
 
 ---
-**Verse 2**
+## Verse 2
 
 *Csus2 G*
 
@@ -58,7 +58,7 @@ The blood doesn't flow from deed
 Creed is greater than my family
 
 ---
-**Pre-Chorus**
+## Pre-Chorus
 
 *Em D/F# G CM7*
 
@@ -67,7 +67,7 @@ Come and be in "welcomed" and "free" 
 An empty crowd that's only forced to be
 
 ---
-**Outro Verse**
+## Outro Verse
 
 *Csus2 G*
 

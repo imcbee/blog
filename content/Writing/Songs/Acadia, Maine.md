@@ -1,6 +1,6 @@
 ---
 title: Acadia, Maine
-date: Thu 16th Oct 2025
+date: 2025-10-16
 created: 2025-10-16
 draft: false
 cssclasses:
@@ -10,7 +10,7 @@ tags:
   - song
 ---
 # Acadia, Maine
-**Verse 1** 
+## Verse 1
 
 *C G*
 
@@ -32,7 +32,7 @@ Reaching peninsulas
 Wind lifts every strand of broken hair
 
 ---
-**Chorus**
+## Chorus
 
 *Em D/F# G C2*
 
@@ -43,7 +43,7 @@ Does bed sounds better to sleep?
 Do you awake with earl grey tea? 
 
 ---
-**Verse 2**
+## Verse 2
 
 *C G*
 
@@ -65,7 +65,7 @@ Sculpture garden cobble stone 
 The moon sets and our life begins
 
 ---
-**Bridge Outro**
+## Bridge Outro
 
 *Em - - C/G D*
 

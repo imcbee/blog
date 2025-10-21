@@ -1,6 +1,6 @@
 ---
 title: CCC
-date: Thu 16th Oct 2025
+date: 2025-10-16
 created: 2025-10-16
 draft: false
 cssclasses:
@@ -10,7 +10,7 @@ tags:
   - song
 ---
 # CCC
-**Verse 1**
+## Verse 1
 
 *F C G*
 
@@ -22,7 +22,8 @@ What's he wishing for? Just a way out. 
 
 *Interlude: Am G*
 
-**Chorus 1**
+## Chorus 1
+
 *Am F G*
 
 Run back, try hard quips; awkward attempts. 
@@ -32,7 +33,7 @@ Teased flaws, baby blue pants don't work with that. 
 Spiritual crippleness, where are my friends? 
 
 ---
-**Verse 2**
+## Verse 2
 
 *F C G*
 
@@ -45,7 +46,8 @@ I locked my keys in my car. I saw ya drove I didn't want you to go.
 
 *Interlude: Am G*
 
-**Chorus 2**
+## Chorus 2
+
 *Am F G*
 
 Ya made me,  pack up that pick up truck
@@ -55,7 +57,7 @@ Cigars, campfire hymns, measurin' dicks 
 Flat bed, barely fit all my stuff
 
 ---
-**Bridge**
+## Bridge
 
 *Am F C G*
 

@@ -1,6 +1,6 @@
 ---
 title: Hallowed Ground
-date: Thu 16th Oct 2025
+date: 2025-10-16
 created: 2025-10-16
 draft: false
 cssclasses:
@@ -10,7 +10,7 @@ tags:
   - song
 ---
 # Hallowed Ground
-**Verse 1**
+## Verse 1
 
 *F C Dm Fsus*
 
@@ -27,7 +27,7 @@ And my sickle, isn't sharp to reap
 And I'm confined, foes of my shame
 
 ---
-**Half Chorus**
+## Half Chorus
 
 *Csus2/G Amadd9 Fsus*
 
@@ -36,7 +36,7 @@ Hold it off, I want to know
 How you feel? 
 
 ---
-**Verse 2**
+## Verse 2
 
 *F C Dm Fsus*
 
@@ -53,7 +53,7 @@ And my hands, still digs for peat
 And I am contrite, for what have I gain
 
 ---
-**Chorus Outro**
+## Chorus Outro
 
 *Csus2/G Amadd9 Fsus*
 

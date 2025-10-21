@@ -1,6 +1,6 @@
 ---
 title: New York City
-date: Thu 16th Oct 2025
+date: 2025-10-16
 created: 2025-10-16
 draft: false
 cssclasses:
@@ -10,7 +10,7 @@ tags:
   - song
 ---
 # New York City
-**Verse 1**
+## Verse 1
 
 *G Em*
 
@@ -35,7 +35,7 @@ Picking fights are easy when you got anger pent up within 
 Hold close to the ones you love these memories don't last when you're so thin
 
 ---
-**Verse 2**
+## Verse 2
 
 *G  Em*
 
@@ -67,7 +67,7 @@ dad are teasing you too
 *Interlude: Em C G D 2x*
 
 ---
-**Verse 3**
+## Verse 3
 
 *G  Em*
 

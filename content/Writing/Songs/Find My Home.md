@@ -1,6 +1,6 @@
 ---
 title: Find My Home
-date: Thu 16th Oct 2025
+date: 2025-10-16
 created: 2025-10-16
 draft: false
 cssclasses:
@@ -10,7 +10,7 @@ tags:
   - song
 ---
 # Find My Home
-**Verse 1**
+## Verse 1
 
 *F C G Am*
 
@@ -35,7 +35,7 @@ Oh mother, I wander 
 Oh mother, I wander 
 
 ---
-**Chorus**
+## Chorus
 
 *F C Am G*
 
@@ -52,7 +52,7 @@ And I'll find my home
 I'll find my home
 
 ---
-**Verse 2**
+## Verse 2
 
 *F C G Am*
 
@@ -77,7 +77,7 @@ Oh mother, your not far now
 Oh mother, your not far now
 
 ---
-**Bridge**
+## Bridge
 
 *G Am F C*
 

@@ -8,6 +8,9 @@ aliases:
   - 
 tags:
   - README
+  - About me
 ---
+Hey! Thanks for visiting my digital garden/blog!
 
-Hey, my name is Ian and this is my blog.
+![family-picture|299x399](family-picture.webp)
+

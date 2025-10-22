@@ -1,7 +1,7 @@
 ---
-title: <% tp.file.title %>
-date: <% tp.date.now() %>
-created: <% tp.date.now() %>
+title: Mastering JOOQ
+date: 
+created: 
 draft: true
 cssclasses:
 aliases: 

@@ -10,7 +10,8 @@ tags:
   - wedding-vow
 ---
 # The Vow
-Life holds uncertainty and trials that we never see coming. 
+---
+Life holds uncertainty and trials that we never see coming.
 Life shows us so many challenges that must face when we are not ready. 
 Life can make us doubt ourselves and test our faith. 
 
@@ -29,7 +30,7 @@ From the time I have gotten to know you, I knew God loves you and has never left
 You remind me that I am loved by Jesus, and you bring the best out of me. 
 You make me want to be a better person and show me hope. 
 
-*I love you Denise Swanberg...*
+*I love you Denise...*
 
 My vow is to protect you and our relationship and always point you towards Christ, our Savior. 
 I vow to persist and fight through conflict and strife with you. 

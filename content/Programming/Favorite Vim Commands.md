@@ -1,0 +1,17 @@
+---
+title: Favorite Vim Commands
+date: 2025-10-22
+created: 2025-10-22
+updated: 2025-10-22
+draft: false
+cssclasses:
+aliases: 
+  - 
+tags: [vim]
+---
+
+Just tracking of vim commands or motions here.
+## SUBSTITE COMMANDS
+`:%s/^\s*\n//g`:  Deletes all blank spaces
+
+`%s/.*text.*\n//gc`: Interactively substitues text with the whole line with a blank space

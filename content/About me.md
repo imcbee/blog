@@ -13,7 +13,7 @@ tags:
 ---
 Hey! Thanks for visiting my digital garden/blog!
 
-A little about myself is that I am a software engineer, but my background was originally Physiology/Neurobiology at UMD and my previous career was vaccines formulation scientist. I began the journey in fall of 2022 with General Assembly's Immersive Software Engineer program. 
+A little about myself is that I am a software engineer, but my background was originally Physiology/Neurobiology at UMD and my previous career was a vaccines formulation scientist. I began the journey in fall of 2022 with General Assembly's Immersive Software Engineer program. 
 
 Other things that I love are my family, music, programming, writing, food and many more!
 

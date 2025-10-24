@@ -6,8 +6,7 @@ draft: true
 cssclasses:
 aliases: 
   - 
-tags: 
-  - 
+tags: [food, recipe]
 ---
 # Chicken Corn Tortilla Soup
-![chicken-corn-tortilla-soup|337x449](chicken-corn-tortilla-soup.jpg)
+![chicken-corn-tortilla-soup|337x449](chicken-corn-tortilla-soup.webp)

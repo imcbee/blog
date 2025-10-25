@@ -10,5 +10,5 @@ tags:
   - 
 ---
 # Ideas to Accomplish
-- [ ] Add a [comments section](https://quartz.jzhao.xyz/features/comments).
-- [ ] 
+- [x] Add a [comments section](https://quartz.jzhao.xyz/features/comments). ✅ 2025-10-25 (easier than I thought)
+- [ ] Figure out a custom theme

@@ -31,9 +31,7 @@ const config: QuartzConfig = {
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
-    analytics: {
-      provider: "plausible",
-    },
+    analytics: { provider: 'goatcounter', websiteId: 'GOATCOUNTER_CODE_PLACEHOLDER' },
     locale: "en-US",
     baseUrl: "imcbee.github.io/blog/",
     ignorePatterns: ["private", "templates", ".obsidian"],

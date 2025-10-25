@@ -20,8 +20,8 @@ export const sharedPageComponents: SharedLayout = {
       // from data-lang
       lang: 'en',
       // theme
-      darkTheme: 'catppuccin_frappe',
-      lightTheme: 'catppuccin_latte'
+      // darkTheme: 'catppuccin_frappe',
+      // lightTheme: 'catppuccin_latte'
     }
   }),
   ],

@@ -14,4 +14,4 @@ Just tracking of vim commands or motions here.
 ## SUBSTITE COMMANDS
 `:%s/^\s*\n//g`:  Deletes all blank spaces
 
-`%s/.*text.*\n//gc`: Interactively substitues text with the whole line with a blank space
+`%s/.*text.*\n//gc`: Interactively substitutes text with the whole line with a blank space

@@ -1,5 +1,10 @@
+import 'dotenv/config';
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
+
+// Secrets
+const myRepoID = process.env.GISCUS_REPO_ID!;
+const myCategoryID = process.env.GISCUS_CATEGORY_ID!;
 
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
@@ -12,11 +17,11 @@ export const sharedPageComponents: SharedLayout = {
       // from data-repo
       repo: 'imcbee/blog',
       // from data-repo-id
-      repoId: 'R_kgDOQCpUtA',
+      repoId: myRepoID,
       // from data-category
       category: 'Announcements',
       // from data-category-id
-      categoryId: 'DIC_kwDOQCpUtM4CxDmL',
+      categoryId: myCategoryID,
       // from data-lang
       lang: 'en',
       // theme

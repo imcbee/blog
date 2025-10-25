@@ -6,9 +6,28 @@ import * as Plugin from "./quartz/plugins"
  *
  * See https://quartz.jzhao.xyz/configuration for more information.
  */
+
+const possiblePageTitles = [
+  "(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧",
+  "(◠﹏◠)",
+  "(⁎˃ᆺ˂)",
+  "(ಥ_ಥ)",
+  "ᕦ(ò_óˇ)ᕤ",
+  "༼ つ ◕_◕ ༽つ",
+  "ᕙ(⇀‸↼‶)ᕗ",
+  "(；一_一)",
+  "(ﾉ´ｰ`)ﾉ",
+  "(づ￣ ³￣)づ",
+  "(¬‿¬)"
+
+];
+function getRandomPageTitle(): string {
+  return possiblePageTitles[Math.floor(Math.random() * possiblePageTitles.length)];
+}
+
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Digital Garden",
+    pageTitle: getRandomPageTitle(),
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -61,8 +80,8 @@ const config: QuartzConfig = {
       }),
       Plugin.SyntaxHighlighting({
         theme: {
-          light: "github-light",
-          dark: "github-dark",
+          light: "light-plus",
+          dark: "dark-plus",
         },
         keepBackground: false,
       }),

@@ -5,7 +5,26 @@ import * as Component from "./quartz/components"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [],
+  afterBody: [
+  Component.Comments({
+    provider: 'giscus',
+    options: {
+      // from data-repo
+      repo: 'imcbee/blog',
+      // from data-repo-id
+      repoId: 'R_kgDOQCpUtA',
+      // from data-category
+      category: 'Announcements',
+      // from data-category-id
+      categoryId: 'DIC_kwDOQCpUtM4CxDmL',
+      // from data-lang
+      lang: 'en',
+      // theme
+      darkTheme: 'transparent_dark',
+      lightTheme: 'catppuccin_latte'
+    }
+  }),
+  ],
   footer: Component.Footer({
     links: {
       GitHub: "https://github.com/imcbee/blog",

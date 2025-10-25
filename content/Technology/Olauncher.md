@@ -9,7 +9,7 @@ aliases:
 tags: [phone, productivity]
 ---
 ## 2025-10-24
-With being on my phone too much, I'm going to give [Olauncher](https://github.com/tanujnotes/Olauncher?tab=readme-ov-file) a try. 
+With being on my phone too much, I'm going to give [Olauncher](https://github.com/tanujnotes/Olauncher?tab=readme-ov-file) a try. Olauncher is just a minimalist UI for your phone. The start up screen only has up to 8 apps that you choose to pick from and the rest of your apps are in list form to search or scroll from without any icons. That is it.
 
 I tend to be a maximalist when dealing with customizations that I most often fall into rabbit holes all the way down. I really love having my daily bible verse widget or see my fake Github commit streak that I use with my Obsidian git plugin (I said the quiet part out loud lol) to my calendar widget to remind me everything. I even went into tedium to organize my [Nova Launcher](https://novalauncher.com/) folders and layout to be *"ergonomically"* efficient so that my right thumb can access every favorite app at a quick swipe. However, this leads to a lot of ADHD app switching to perpetual doom scroll from the YouTube app, to web browser, to Instagram, Reddit and back to YouTube again. 
 

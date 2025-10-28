@@ -31,7 +31,7 @@ jobs:
         run: npm ci
       - name: Prepare Environment Secrets
         env:
-          GOATCOUNTER_CODE: ${{ secrets.GOATCOUNTER_CODE }}
+          GOATCOUNTER_CODE: ${{ env.GOATCOUNTER_CODE }}
         run: |
           sed -i "s/GOATCOUNTER_CODE_PLACEHOLDER/${GOATCOUNTER_CODE}/g" quartz.config.ts
       - name: Fetch Quartz Theme

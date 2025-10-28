@@ -8,7 +8,19 @@ aliases:
   - 
 tags: [kitty, terminal, fzf]
 ---
-
+```
+                ⠀⠀⠀⠀⢀⣀⣀⡀⠀⠀⠀⠀⠀⠀⠀⣠⠾⠛⠶⣄⢀⣠⣤⠴⢦⡀⠀⠀⠀⠀
+                ⠀⠀⠀⢠⡿⠉⠉⠉⠛⠶⠶⠖⠒⠒⣾⠋⠀⢀⣀⣙⣯⡁⠀⠀⠀⣿⠀⠀⠀⠀
+                ⠀⠀⠀⢸⡇⠀⠀⠀⠀⠀⠀⠀⠀⢸⡏⠀⠀⢯⣼⠋⠉⠙⢶⠞⠛⠻⣆⠀⠀⠀
+                ⠀⠀⠀⢸⣧⠆⠀⠀⠀⠀⠀⠀⠀⠀⠻⣦⣤⡤⢿⡀⠀⢀⣼⣷⠀⠀⣽⠀⠀⠀
+                ⠀⠀⠀⣼⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠙⢏⡉⠁⣠⡾⣇⠀⠀⠀
+                ⠀⠀⢰⡏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠋⠉⠀⢻⡀⠀⠀
+                ⣀⣠⣼⣧⣤⠀⠀⠀⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⡀⠀⠀⠐⠖⢻⡟⠓⠒
+                ⠀⠀⠈⣷⣀⡀⠀⠘⠿⠇⠀⠀⠀⢀⣀⣀⠀⠀⠀⠀⠿⠟⠀⠀⠀⠲⣾⠦⢤⠀
+                ⠀⠀⠋⠙⣧⣀⡀⠀⠀⠀⠀⠀⠀⠘⠦⠼⠃⠀⠀⠀⠀⠀⠀⠀⢤⣼⣏⠀⠀⠀
+                ⠀⠀⢀⠴⠚⠻⢧⣄⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⠞⠉⠉⠓⠀⠀
+                ⠀⠀⠀⠀⠀⠀⠀⠈⠉⠛⠛⠶⠶⠶⣶⣤⣴⡶⠶⠶⠟⠛⠉⠀⠀⠀⠀⠀⠀⠀
+```
 From [[My Ghostty Terminal Config|my ghostty terminal config]] article post, I thought I would share my kitty configurations. Usually when you download kitty, it gives narrating comments on how to set up each part of kitty. If you would like to see that version of my kitty.conf, follow this link to my [github gist](https://gist.github.com/imcbee/55bd85f3bc7ad971591c64c2b20895d3). 
 
 Using this configuration will need a [Nerd Font](https://www.nerdfonts.com/) and [fzf](https://github.com/junegunn/fzf) to render some of the symbols which are seen missing like in "tab-activity_symbol" on line 14 highlighted below. Kitty is very powerful because you can use fzf with a key map to search the kitty terminal screen for what ever text you want and that text will be piped into kitty's own command programs called "kittens" with the command [`kitty +kitten clipboard`](https://sw.kovidgoyal.net/kitty/kittens_intro/). This helps me a lot with docker logs to grep and find error logs and I can copy that line. Or if I am running around in `psql` and I am trying to find a table or field, I can just use `cmd+shift+f` to find it. With `ctrl+shift+f`, I found this [github repo](https://github.com/trygveaa/kitty-kitten-search) on implementing a close to standard search feature that you might find in something in a normal terminal like Iterm2. `cmd+f` is just using combining [show_scrollback](https://sw.kovidgoyal.net/kitty/actions/#action-show_scrollback) and [send_text](https://sw.kovidgoyal.net/kitty/actions/#action-send_text) with a less command to do a vim search on the terminal window.

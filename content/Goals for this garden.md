@@ -20,3 +20,4 @@ I don't know what I am doing this with digital garden or blog. I would like to u
 	- [I really like the look of this site](https://jbuck95.github.io/Uni/)
 - [ ] Update blog submodule to use `git subtree` instead. [Resources](https://oliverfalvai.com/evergreen/my-quartz-+-obsidian-note-publishing-setup)
 - [ ] Possibly implement [Quartz Sync](https://github.com/saberzero1/quartz-syncer) plugin?
+- [ ] Maybe create a link as my resume?
